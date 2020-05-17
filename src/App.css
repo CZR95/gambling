@@ -1,38 +1,155 @@
-.App {
-  text-align: center;
+.border-1 {
+  border: 2px solid rgb(255, 59, 59);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.border-2 {
+  border: 2px solid #188f00;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.border-3 {
+  border: 2px solid #ffd900;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.input {
+  margin: auto;
+  background-color: antiquewhite;
+}
+
+a:link,
+a:visited {
+  background-color: #666666;
   color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
 }
 
-.App-link {
-  color: #61dafb;
+a:hover,
+a:active {
+  background-color: #ffdf00;
+  color: black;
+  text-decoration: none;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.bg-blue {
+  background-color: blue;
+}
+
+.bg-blue-light-1 {
+  background-color: rgb(0, 183, 255);
+}
+
+.bg-gray {
+  background-color: gray;
+}
+
+.bg-red {
+  background-color: red;
+}
+
+.bg-yellow {
+  background-color: yellow;
+}
+
+.bg-dark-gray {
+  background-color: rgb(54, 54, 54);
+}
+
+.text-decoration-none {
+  text-decoration: none;
+}
+
+.ccc {
+  background-image: url("./background.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #464646;
+}
+
+.ddd {
+  background-image: url("./bonus.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #464646;
+}
+
+.eee {
+  background-image: url("./bonus-3.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #464646;
+}
+
+.fff {
+  background-image: url("./bonus-2.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #464646;
+}
+
+.bgi-abstract-red {
+  background-image: url("./abstract-red-1.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #464646;
+}
+
+.bgi-star {
+  background-image: url("./background-1.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #464646;
+}
+
+.fit-image {
+  width: 100%;
+  object-fit: cover;
+  height: 180px;
+}
+
+.logo {
+  width: 240px;
+  height: 60px;
+}
+
+.opacity-1 {
+  opacity: 0.2;
+}
+
+.opacity-2 {
+  opacity: 0.4;
+}
+
+.opacity-3 {
+  opacity: 0.6;
+}
+
+.opacity-4 {
+  opacity: 0.8;
+}
+
+.opacity-5 {
+  opacity: 1;
+}
+
+.text-blue {
+  color: blue;
+}
+
+.text-gray {
+  color: gray;
+}
+
+.text-gray-light-1 {
+  color: rgb(216, 216, 216);
+}
+
+.text-red {
+  color: red;
 }
