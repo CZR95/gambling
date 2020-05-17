@@ -1,21 +1,20 @@
 {
   "files": {
     "main.css": "/gambling/static/css/main.1c300e92.chunk.css",
-    "main.js": "/gambling/static/js/main.b5567879.chunk.js",
-    "main.js.map": "/gambling/static/js/main.b5567879.chunk.js.map",
+    "main.js": "/gambling/static/js/main.85b64ed1.chunk.js",
+    "main.js.map": "/gambling/static/js/main.85b64ed1.chunk.js.map",
     "runtime-main.js": "/gambling/static/js/runtime-main.ce4b2f0e.js",
     "runtime-main.js.map": "/gambling/static/js/runtime-main.ce4b2f0e.js.map",
     "static/css/2.89f067aa.chunk.css": "/gambling/static/css/2.89f067aa.chunk.css",
     "static/js/2.91866e47.chunk.js": "/gambling/static/js/2.91866e47.chunk.js",
     "static/js/2.91866e47.chunk.js.map": "/gambling/static/js/2.91866e47.chunk.js.map",
     "index.html": "/gambling/index.html",
-    "precache-manifest.b337c0b3c61b53940e9e731f9406d01d.js": "/gambling/precache-manifest.b337c0b3c61b53940e9e731f9406d01d.js",
+    "precache-manifest.ac02ef5e0c644b104001401b71a7220a.js": "/gambling/precache-manifest.ac02ef5e0c644b104001401b71a7220a.js",
     "service-worker.js": "/gambling/service-worker.js",
     "static/css/2.89f067aa.chunk.css.map": "/gambling/static/css/2.89f067aa.chunk.css.map",
     "static/css/main.1c300e92.chunk.css.map": "/gambling/static/css/main.1c300e92.chunk.css.map",
     "static/js/2.91866e47.chunk.js.LICENSE.txt": "/gambling/static/js/2.91866e47.chunk.js.LICENSE.txt",
     "static/media/App.css": "/gambling/static/media/bonus.3cfcb92d.jpg",
-    "static/media/background.png": "/gambling/static/media/background.48f6c9a3.png",
     "static/media/bb.png": "/gambling/static/media/bb.20a53b94.png"
   },
   "entrypoints": [
@@ -23,6 +22,6 @@
     "static/css/2.89f067aa.chunk.css",
     "static/js/2.91866e47.chunk.js",
     "static/css/main.1c300e92.chunk.css",
-    "static/js/main.b5567879.chunk.js"
+    "static/js/main.85b64ed1.chunk.js"
   ]
 }
