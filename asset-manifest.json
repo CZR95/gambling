@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/gambling/static/css/main.1c300e92.chunk.css",
+    "main.js": "/gambling/static/js/main.62c9753a.chunk.js",
+    "main.js.map": "/gambling/static/js/main.62c9753a.chunk.js.map",
+    "runtime-main.js": "/gambling/static/js/runtime-main.cda991ff.js",
+    "runtime-main.js.map": "/gambling/static/js/runtime-main.cda991ff.js.map",
+    "static/css/2.89f067aa.chunk.css": "/gambling/static/css/2.89f067aa.chunk.css",
+    "static/js/2.855c2e99.chunk.js": "/gambling/static/js/2.855c2e99.chunk.js",
+    "static/js/2.855c2e99.chunk.js.map": "/gambling/static/js/2.855c2e99.chunk.js.map",
+    "index.html": "/gambling/index.html",
+    "precache-manifest.0f706473d8a777c746ac1dc68c621740.js": "/gambling/precache-manifest.0f706473d8a777c746ac1dc68c621740.js",
+    "service-worker.js": "/gambling/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/gambling/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.1c300e92.chunk.css.map": "/gambling/static/css/main.1c300e92.chunk.css.map",
+    "static/js/2.855c2e99.chunk.js.LICENSE.txt": "/gambling/static/js/2.855c2e99.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/gambling/static/media/bonus.3cfcb92d.jpg",
+    "static/media/background.png": "/gambling/static/media/background.48f6c9a3.png",
+    "static/media/bb.png": "/gambling/static/media/bb.20a53b94.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cda991ff.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.855c2e99.chunk.js",
+    "static/css/main.1c300e92.chunk.css",
+    "static/js/main.62c9753a.chunk.js"
+  ]
+}
