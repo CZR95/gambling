@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "738d5d0de51f992139cead0499a6c416",
+    "revision": "3ffe50b99f185ea214add3c8155ead54",
     "url": "/gambling/index.html"
   },
   {
-    "revision": "309cebdeecab1e79523d",
+    "revision": "c2b29ba1759f42e27bc6",
     "url": "/gambling/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "e82bd255fa6a5441bfe4",
-    "url": "/gambling/static/css/main.a266ef6c.chunk.css"
+    "revision": "f4a6080b534d5f30a78f",
+    "url": "/gambling/static/css/main.3da8f584.chunk.css"
   },
   {
-    "revision": "309cebdeecab1e79523d",
-    "url": "/gambling/static/js/2.65e79ae5.chunk.js"
+    "revision": "c2b29ba1759f42e27bc6",
+    "url": "/gambling/static/js/2.7cb85e89.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/gambling/static/js/2.65e79ae5.chunk.js.LICENSE.txt"
+    "url": "/gambling/static/js/2.7cb85e89.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e82bd255fa6a5441bfe4",
-    "url": "/gambling/static/js/main.9cac945b.chunk.js"
+    "revision": "f4a6080b534d5f30a78f",
+    "url": "/gambling/static/js/main.8287884e.chunk.js"
   },
   {
     "revision": "e28acb349c8b08bf60c5",
@@ -32,16 +32,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gambling/static/media/918kiss-logo.85c48e5f.png"
   },
   {
-    "revision": "5f0aa5d65527d496c86a0eaad8db2db5",
-    "url": "/gambling/static/media/background-1.5f0aa5d6.png"
-  },
-  {
     "revision": "115846e9cd15fbde56da992c11dd3c8c",
     "url": "/gambling/static/media/background-2.115846e9.jpg"
   },
   {
     "revision": "00b6b0a6dda52cbdcb4928dace222d74",
     "url": "/gambling/static/media/background-4.00b6b0a6.jpg"
+  },
+  {
+    "revision": "a5c6f200091073f0b693e9a636cc8049",
+    "url": "/gambling/static/media/background-5.a5c6f200.jpg"
   },
   {
     "revision": "86b7d6ba0b9067f265f339c9029992e7",
@@ -84,44 +84,44 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gambling/static/media/mega888-logo.18d9b30f.png"
   },
   {
-    "revision": "387dca0429813914046a0a66cb2f060d",
-    "url": "/gambling/static/media/promo-1.387dca04.png"
+    "revision": "bb74c96eaf1574dd20ac732195bbd330",
+    "url": "/gambling/static/media/promo-1.bb74c96e.png"
   },
   {
-    "revision": "a3f4c571a398382b5230ed2cb0ae7e4c",
-    "url": "/gambling/static/media/promo-10.a3f4c571.png"
+    "revision": "773c73a338be6066592a8643e8f84195",
+    "url": "/gambling/static/media/promo-10.773c73a3.png"
   },
   {
-    "revision": "0d9f6111ef201d92d992fdc6e16dc898",
-    "url": "/gambling/static/media/promo-2.0d9f6111.png"
+    "revision": "ced66cd6161302d2bfda794d36382954",
+    "url": "/gambling/static/media/promo-2.ced66cd6.png"
   },
   {
-    "revision": "da3ba2f384c56d9dba7df81db2c7ade8",
-    "url": "/gambling/static/media/promo-3.da3ba2f3.png"
+    "revision": "41fec6f1721cc4d158a502f19d1daafa",
+    "url": "/gambling/static/media/promo-3.41fec6f1.png"
   },
   {
-    "revision": "1a7245ccbff1ff5a518a280a2ba17ce7",
-    "url": "/gambling/static/media/promo-4.1a7245cc.png"
+    "revision": "997b9b154058c259365f003ae0162eee",
+    "url": "/gambling/static/media/promo-4.997b9b15.png"
   },
   {
-    "revision": "b5c78cc5c4e6efd353c7793cfcca7ae6",
-    "url": "/gambling/static/media/promo-5.b5c78cc5.png"
+    "revision": "055c1c5c620ab63c39df8814807794f3",
+    "url": "/gambling/static/media/promo-5.055c1c5c.png"
   },
   {
-    "revision": "0cebfb8257143487b70d38bd474187b4",
-    "url": "/gambling/static/media/promo-6.0cebfb82.png"
+    "revision": "46ff037edfd5fc34cc20b94fbaa5ec03",
+    "url": "/gambling/static/media/promo-6.46ff037e.png"
   },
   {
-    "revision": "0e20f0a93fa99b75e69bbd500f5b290c",
-    "url": "/gambling/static/media/promo-7.0e20f0a9.png"
+    "revision": "5f9218df45bc4ba26c781b640f3c21ef",
+    "url": "/gambling/static/media/promo-7.5f9218df.png"
   },
   {
-    "revision": "58a52f9550bb3260d2a2f34c9991b999",
-    "url": "/gambling/static/media/promo-8.58a52f95.png"
+    "revision": "50a9d7725156593c3388748f7a6707c2",
+    "url": "/gambling/static/media/promo-8.50a9d772.png"
   },
   {
-    "revision": "8b80126eb6b3ccad9489b436b4aeb908",
-    "url": "/gambling/static/media/promo-9.8b80126e.png"
+    "revision": "393eee55eb4efe289d226bdfd24548c3",
+    "url": "/gambling/static/media/promo-9.393eee55.png"
   },
   {
     "revision": "efb72c35ba2bd2f58ed1c55ffb11e5de",
