@@ -41,9 +41,7 @@
             .split("/")
             .slice(segmentCount)
             .join("/")
-            .replace(/&/g, "~and~") +
-          (l.search ? "&q=" + l.search.slice(1).replace(/&/g, "~and~") : "") +
-          l.hash
+            .replace(/&/g, "~and~")
       );
     </script>
   </head>
