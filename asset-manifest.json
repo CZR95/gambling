@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/gambling/home/static/css/main.52ab1b61.chunk.css",
-    "main.js": "/gambling/home/static/js/main.774fa643.chunk.js",
-    "main.js.map": "/gambling/home/static/js/main.774fa643.chunk.js.map",
+    "main.js": "/gambling/home/static/js/main.af3b1f87.chunk.js",
+    "main.js.map": "/gambling/home/static/js/main.af3b1f87.chunk.js.map",
     "runtime-main.js": "/gambling/home/static/js/runtime-main.dcf4def3.js",
     "runtime-main.js.map": "/gambling/home/static/js/runtime-main.dcf4def3.js.map",
     "static/css/2.829c9cb5.chunk.css": "/gambling/home/static/css/2.829c9cb5.chunk.css",
     "static/js/2.ae7338f5.chunk.js": "/gambling/home/static/js/2.ae7338f5.chunk.js",
     "static/js/2.ae7338f5.chunk.js.map": "/gambling/home/static/js/2.ae7338f5.chunk.js.map",
     "index.html": "/gambling/home/index.html",
-    "precache-manifest.b1997f27c6f48b5c676f8f51967bb58f.js": "/gambling/home/precache-manifest.b1997f27c6f48b5c676f8f51967bb58f.js",
+    "precache-manifest.373a977ebcb7bdbb489657de7a3c7ea0.js": "/gambling/home/precache-manifest.373a977ebcb7bdbb489657de7a3c7ea0.js",
     "service-worker.js": "/gambling/home/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/gambling/home/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.52ab1b61.chunk.css.map": "/gambling/home/static/css/main.52ab1b61.chunk.css.map",
@@ -46,6 +46,6 @@
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.ae7338f5.chunk.js",
     "static/css/main.52ab1b61.chunk.css",
-    "static/js/main.774fa643.chunk.js"
+    "static/js/main.af3b1f87.chunk.js"
   ]
 }
