@@ -1,0 +1,22 @@
+{
+  "welcome_to_react": " to React and react-i18next aaaa",
+  "menu_home": "主页",
+  "menu_games": "游戏",
+  "menu_promotion": "优惠",
+  "menu_contact": "联络我们",
+  "menu_language": "更换语言",
+  "english": "英文",
+  "chinese": "华语",
+  "malay": "马来语",
+  "contact_title": "联系我们了解更多",
+  "copyright": "版权所有 ",
+  "close": "关闭",
+  "why_choose_us": "为什么选择我们",
+  "special_welcome_bonus": "特别欢迎奖金",
+  "transparent_payment_system": "透明的支付系统",
+  "customer_support": "客户支持 24/7",
+  "friendly_customer_support": "友好的客户",
+  "online_casino_games": "在线赌场和游戏",
+
+  "end": "end"
+}

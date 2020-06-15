@@ -1,0 +1,22 @@
+{
+  "welcome_to_react": "Welcome to React and react-i18next aaaa",
+  "menu_home": "HOME",
+  "menu_games": "GAMES",
+  "menu_promotion": "PROMOTION",
+  "menu_contact": "CONTACT",
+  "menu_language": "Language",
+  "english": "English",
+  "chinese": "Chinese",
+  "malay": "Malay",
+  "contact_title": "Contact us for more info",
+  "copyright": "Copyright ",
+  "close": "Close",
+  "why_choose_us": "WHY CHOOSE US",
+  "special_welcome_bonus": "Special & Welcome Bonus",
+  "transparent_payment_system": "Transparent Payment System",
+  "customer_support": "Customer Support 24/7",
+  "friendly_customer_support": " Friendly Customer Support",
+  "online_casino_games": "ONLINE CASINO & GAMES",
+
+  "end": "end"
+}
