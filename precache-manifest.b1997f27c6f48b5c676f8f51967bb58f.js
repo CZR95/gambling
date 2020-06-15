@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ee53be25d2ed7d09757401c3ecc8eb5",
+    "revision": "09b440f31d39a2e32d299e82fd920238",
     "url": "/gambling/home/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gambling/home/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "b06ea1e306baa7d43a71",
+    "revision": "cec6afd451ad7a5fc62f",
     "url": "/gambling/home/static/css/main.52ab1b61.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gambling/home/static/js/2.ae7338f5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b06ea1e306baa7d43a71",
-    "url": "/gambling/home/static/js/main.f1c0a804.chunk.js"
+    "revision": "cec6afd451ad7a5fc62f",
+    "url": "/gambling/home/static/js/main.774fa643.chunk.js"
   },
   {
     "revision": "7fdae715c9c90f6652d6",
