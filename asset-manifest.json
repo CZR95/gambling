@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/gambling/static/css/main.42490bb1.chunk.css",
-    "main.js": "/gambling/static/js/main.f603013b.chunk.js",
-    "main.js.map": "/gambling/static/js/main.f603013b.chunk.js.map",
+    "main.css": "/gambling/static/css/main.fd39df1f.chunk.css",
+    "main.js": "/gambling/static/js/main.a0f5487f.chunk.js",
+    "main.js.map": "/gambling/static/js/main.a0f5487f.chunk.js.map",
     "runtime-main.js": "/gambling/static/js/runtime-main.ce4b2f0e.js",
     "runtime-main.js.map": "/gambling/static/js/runtime-main.ce4b2f0e.js.map",
     "static/css/2.829c9cb5.chunk.css": "/gambling/static/css/2.829c9cb5.chunk.css",
     "static/js/2.10f2958e.chunk.js": "/gambling/static/js/2.10f2958e.chunk.js",
     "static/js/2.10f2958e.chunk.js.map": "/gambling/static/js/2.10f2958e.chunk.js.map",
     "index.html": "/gambling/index.html",
-    "precache-manifest.1c7c732937b83d823723a8e695309bb9.js": "/gambling/precache-manifest.1c7c732937b83d823723a8e695309bb9.js",
+    "precache-manifest.1d5d718d654bfb37a04242e4df1b9579.js": "/gambling/precache-manifest.1d5d718d654bfb37a04242e4df1b9579.js",
     "service-worker.js": "/gambling/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/gambling/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.42490bb1.chunk.css.map": "/gambling/static/css/main.42490bb1.chunk.css.map",
+    "static/css/main.fd39df1f.chunk.css.map": "/gambling/static/css/main.fd39df1f.chunk.css.map",
     "static/js/2.10f2958e.chunk.js.LICENSE.txt": "/gambling/static/js/2.10f2958e.chunk.js.LICENSE.txt",
     "static/media/918kiss-logo.png": "/gambling/static/media/918kiss-logo.85c48e5f.png",
     "static/media/App.css": "/gambling/static/media/background-5.b15681ce.jpg",
@@ -53,7 +53,7 @@
     "static/js/runtime-main.ce4b2f0e.js",
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.10f2958e.chunk.js",
-    "static/css/main.42490bb1.chunk.css",
-    "static/js/main.f603013b.chunk.js"
+    "static/css/main.fd39df1f.chunk.css",
+    "static/js/main.a0f5487f.chunk.js"
   ]
 }
