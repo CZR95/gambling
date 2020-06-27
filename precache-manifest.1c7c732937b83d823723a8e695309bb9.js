@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3383f4ceeac312b43bea54d2f113e50f",
+    "revision": "c154d041ede1a4482884f78095752959",
     "url": "/gambling/index.html"
   },
   {
-    "revision": "54b6a529657aef5f4724",
+    "revision": "d65f24747441902d21ff",
     "url": "/gambling/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "d95e4aec461968b59ca3",
+    "revision": "9407ce1d504f4c5485ea",
     "url": "/gambling/static/css/main.42490bb1.chunk.css"
   },
   {
-    "revision": "54b6a529657aef5f4724",
-    "url": "/gambling/static/js/2.d1eb9d30.chunk.js"
+    "revision": "d65f24747441902d21ff",
+    "url": "/gambling/static/js/2.10f2958e.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/gambling/static/js/2.d1eb9d30.chunk.js.LICENSE.txt"
+    "url": "/gambling/static/js/2.10f2958e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d95e4aec461968b59ca3",
-    "url": "/gambling/static/js/main.7ef1458e.chunk.js"
+    "revision": "9407ce1d504f4c5485ea",
+    "url": "/gambling/static/js/main.f603013b.chunk.js"
   },
   {
     "revision": "e28acb349c8b08bf60c5",
@@ -42,10 +42,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b15681ced5fd58a5f8717d11e00d2170",
     "url": "/gambling/static/media/background-5.b15681ce.jpg"
-  },
-  {
-    "revision": "86b7d6ba0b9067f265f339c9029992e7",
-    "url": "/gambling/static/media/cimb-bank-logo.86b7d6ba.png"
   },
   {
     "revision": "20459c77c115a2ca6b9a718ac539d364",
@@ -88,10 +84,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gambling/static/media/girls-9.0628369f.jpeg"
   },
   {
-    "revision": "aa0bf3bed931bbd228f67e12e64effc4",
-    "url": "/gambling/static/media/hong-leong-bank-logo.aa0bf3be.png"
-  },
-  {
     "revision": "11af58cfa3086a13081c9d85b82894b6",
     "url": "/gambling/static/media/joker-logo.11af58cf.png"
   },
@@ -126,10 +118,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "af5dcd00476900feeb88ad69356bcd75",
     "url": "/gambling/static/media/maxbet-logo.af5dcd00.png"
-  },
-  {
-    "revision": "854257b0944b69134671e549c366a380",
-    "url": "/gambling/static/media/maybank-logo.854257b0.png"
   },
   {
     "revision": "18d9b30f46a3106b2760429a26df5494",
@@ -176,16 +164,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gambling/static/media/promo-9.393eee55.png"
   },
   {
-    "revision": "efb72c35ba2bd2f58ed1c55ffb11e5de",
-    "url": "/gambling/static/media/public-bank-logo.efb72c35.png"
-  },
-  {
     "revision": "b6988afd527efafa00652f89ed0635e5",
     "url": "/gambling/static/media/pussy888-logo.b6988afd.png"
-  },
-  {
-    "revision": "74c7ff63ef20f4b64fc2fc6eae0342c6",
-    "url": "/gambling/static/media/rhb-bank-logo.74c7ff63.png"
   },
   {
     "revision": "8ac8cf8ef8f74e75b67d24b6fdc13aab",
