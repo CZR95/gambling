@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "06817738a6130a5a93e8cfe8b58cc0c9",
+    "revision": "1f2001d40ae243e5b8a82e6fa216c402",
     "url": "/gambling/index.html"
   },
   {
-    "revision": "c2b29ba1759f42e27bc6",
+    "revision": "911284f627942e3637e5",
     "url": "/gambling/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "2d3a25461b9de9813873",
-    "url": "/gambling/static/css/main.60aaa750.chunk.css"
+    "revision": "c13c94e50991a4c45266",
+    "url": "/gambling/static/css/main.42490bb1.chunk.css"
   },
   {
-    "revision": "c2b29ba1759f42e27bc6",
-    "url": "/gambling/static/js/2.7cb85e89.chunk.js"
+    "revision": "911284f627942e3637e5",
+    "url": "/gambling/static/js/2.1d93575e.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/gambling/static/js/2.7cb85e89.chunk.js.LICENSE.txt"
+    "url": "/gambling/static/js/2.1d93575e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2d3a25461b9de9813873",
-    "url": "/gambling/static/js/main.f06ff4f1.chunk.js"
+    "revision": "c13c94e50991a4c45266",
+    "url": "/gambling/static/js/main.bf899bbf.chunk.js"
   },
   {
     "revision": "e28acb349c8b08bf60c5",
@@ -40,12 +40,52 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gambling/static/media/background-4.00b6b0a6.jpg"
   },
   {
-    "revision": "a5c6f200091073f0b693e9a636cc8049",
-    "url": "/gambling/static/media/background-5.a5c6f200.jpg"
+    "revision": "b15681ced5fd58a5f8717d11e00d2170",
+    "url": "/gambling/static/media/background-5.b15681ce.jpg"
   },
   {
     "revision": "86b7d6ba0b9067f265f339c9029992e7",
     "url": "/gambling/static/media/cimb-bank-logo.86b7d6ba.png"
+  },
+  {
+    "revision": "20459c77c115a2ca6b9a718ac539d364",
+    "url": "/gambling/static/media/girls-1.20459c77.jpeg"
+  },
+  {
+    "revision": "29183917bc4566a83d9420ca225fb00a",
+    "url": "/gambling/static/media/girls-10.29183917.jpeg"
+  },
+  {
+    "revision": "801fcf42e67cebe7d6d1e35ea38d3fa2",
+    "url": "/gambling/static/media/girls-2.801fcf42.jpeg"
+  },
+  {
+    "revision": "19bced0ce1f3e1bc10a7e8daa48fb9d4",
+    "url": "/gambling/static/media/girls-3.19bced0c.jpeg"
+  },
+  {
+    "revision": "830398651603de08039bae2fa018f4b3",
+    "url": "/gambling/static/media/girls-4.83039865.jpeg"
+  },
+  {
+    "revision": "63425db212eaaa25f241e33aa2c554fb",
+    "url": "/gambling/static/media/girls-5.63425db2.jpeg"
+  },
+  {
+    "revision": "472f8381b5a7edefd6a65e200f97e4ee",
+    "url": "/gambling/static/media/girls-6.472f8381.jpeg"
+  },
+  {
+    "revision": "0fda680e60d6d26499d3ad69672f0868",
+    "url": "/gambling/static/media/girls-7.0fda680e.jpeg"
+  },
+  {
+    "revision": "135821d525daa0c4cd6b5761d11972cc",
+    "url": "/gambling/static/media/girls-8.135821d5.jpeg"
+  },
+  {
+    "revision": "0628369f7b5fbe9f4d42aa9aff96dce1",
+    "url": "/gambling/static/media/girls-9.0628369f.jpeg"
   },
   {
     "revision": "aa0bf3bed931bbd228f67e12e64effc4",
@@ -54,6 +94,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "11af58cfa3086a13081c9d85b82894b6",
     "url": "/gambling/static/media/joker-logo.11af58cf.png"
+  },
+  {
+    "revision": "e89a9a3ed7aeaab2b098172845bded3b",
+    "url": "/gambling/static/media/kk-918_suite.e89a9a3e.png"
+  },
+  {
+    "revision": "64ff5edda9915e73b0081e4116929e69",
+    "url": "/gambling/static/media/kk-ab_suite.64ff5edd.png"
+  },
+  {
+    "revision": "689c8775d6fb36bc0662dd026ec58a27",
+    "url": "/gambling/static/media/kk-i_sports.689c8775.png"
   },
   {
     "revision": "0c8fc696fecef4c8645b06b4c5ca58b1",
