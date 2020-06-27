@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/gambling/static/css/main.42490bb1.chunk.css",
-    "main.js": "/gambling/static/js/main.bf899bbf.chunk.js",
-    "main.js.map": "/gambling/static/js/main.bf899bbf.chunk.js.map",
+    "main.js": "/gambling/static/js/main.7ef1458e.chunk.js",
+    "main.js.map": "/gambling/static/js/main.7ef1458e.chunk.js.map",
     "runtime-main.js": "/gambling/static/js/runtime-main.ce4b2f0e.js",
     "runtime-main.js.map": "/gambling/static/js/runtime-main.ce4b2f0e.js.map",
     "static/css/2.829c9cb5.chunk.css": "/gambling/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.1d93575e.chunk.js": "/gambling/static/js/2.1d93575e.chunk.js",
-    "static/js/2.1d93575e.chunk.js.map": "/gambling/static/js/2.1d93575e.chunk.js.map",
+    "static/js/2.d1eb9d30.chunk.js": "/gambling/static/js/2.d1eb9d30.chunk.js",
+    "static/js/2.d1eb9d30.chunk.js.map": "/gambling/static/js/2.d1eb9d30.chunk.js.map",
     "index.html": "/gambling/index.html",
-    "precache-manifest.aa4116f9cf4a838b1bfe35af4314a3fb.js": "/gambling/precache-manifest.aa4116f9cf4a838b1bfe35af4314a3fb.js",
+    "precache-manifest.d0d3678beb7342e2457d0eff9eef82cd.js": "/gambling/precache-manifest.d0d3678beb7342e2457d0eff9eef82cd.js",
     "service-worker.js": "/gambling/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/gambling/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.42490bb1.chunk.css.map": "/gambling/static/css/main.42490bb1.chunk.css.map",
-    "static/js/2.1d93575e.chunk.js.LICENSE.txt": "/gambling/static/js/2.1d93575e.chunk.js.LICENSE.txt",
+    "static/js/2.d1eb9d30.chunk.js.LICENSE.txt": "/gambling/static/js/2.d1eb9d30.chunk.js.LICENSE.txt",
     "static/media/918kiss-logo.png": "/gambling/static/media/918kiss-logo.85c48e5f.png",
     "static/media/App.css": "/gambling/static/media/background-5.b15681ce.jpg",
     "static/media/cimb-bank-logo.png": "/gambling/static/media/cimb-bank-logo.86b7d6ba.png",
@@ -57,8 +57,8 @@
   "entrypoints": [
     "static/js/runtime-main.ce4b2f0e.js",
     "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.1d93575e.chunk.js",
+    "static/js/2.d1eb9d30.chunk.js",
     "static/css/main.42490bb1.chunk.css",
-    "static/js/main.bf899bbf.chunk.js"
+    "static/js/main.7ef1458e.chunk.js"
   ]
 }
