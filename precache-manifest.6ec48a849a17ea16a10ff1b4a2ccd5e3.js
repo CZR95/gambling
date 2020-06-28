@@ -1,35 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2d0613aea6592dcc3cfc7487129006d6",
+    "revision": "0a62dd118ad3328ee1c8a51ca812f72e",
     "url": "/gambling/index.html"
   },
   {
-    "revision": "d65f24747441902d21ff",
+    "revision": "bca9bf3faecd79777e05",
     "url": "/gambling/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "6bc625ff8754bde90b47",
-    "url": "/gambling/static/css/main.fd39df1f.chunk.css"
+    "revision": "da4471718e3289e096b9",
+    "url": "/gambling/static/css/main.4cfb2d15.chunk.css"
   },
   {
-    "revision": "d65f24747441902d21ff",
-    "url": "/gambling/static/js/2.10f2958e.chunk.js"
+    "revision": "bca9bf3faecd79777e05",
+    "url": "/gambling/static/js/2.17139a10.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/gambling/static/js/2.10f2958e.chunk.js.LICENSE.txt"
+    "url": "/gambling/static/js/2.17139a10.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6bc625ff8754bde90b47",
-    "url": "/gambling/static/js/main.a0f5487f.chunk.js"
+    "revision": "da4471718e3289e096b9",
+    "url": "/gambling/static/js/main.f1030342.chunk.js"
   },
   {
     "revision": "e28acb349c8b08bf60c5",
     "url": "/gambling/static/js/runtime-main.ce4b2f0e.js"
-  },
-  {
-    "revision": "85c48e5f2448da49b674f6a57fc59b0e",
-    "url": "/gambling/static/media/918kiss-logo.85c48e5f.png"
   },
   {
     "revision": "115846e9cd15fbde56da992c11dd3c8c",
@@ -84,10 +80,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gambling/static/media/girls-9.0628369f.jpeg"
   },
   {
-    "revision": "11af58cfa3086a13081c9d85b82894b6",
-    "url": "/gambling/static/media/joker-logo.11af58cf.png"
-  },
-  {
     "revision": "e89a9a3ed7aeaab2b098172845bded3b",
     "url": "/gambling/static/media/kk-918_suite.e89a9a3e.png"
   },
@@ -114,14 +106,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "133a02c3b8e160b439f0a6e886365246",
     "url": "/gambling/static/media/main-promo-3.133a02c3.png"
-  },
-  {
-    "revision": "af5dcd00476900feeb88ad69356bcd75",
-    "url": "/gambling/static/media/maxbet-logo.af5dcd00.png"
-  },
-  {
-    "revision": "18d9b30f46a3106b2760429a26df5494",
-    "url": "/gambling/static/media/mega888-logo.18d9b30f.png"
   },
   {
     "revision": "bb74c96eaf1574dd20ac732195bbd330",
@@ -162,13 +146,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "393eee55eb4efe289d226bdfd24548c3",
     "url": "/gambling/static/media/promo-9.393eee55.png"
-  },
-  {
-    "revision": "b6988afd527efafa00652f89ed0635e5",
-    "url": "/gambling/static/media/pussy888-logo.b6988afd.png"
-  },
-  {
-    "revision": "8ac8cf8ef8f74e75b67d24b6fdc13aab",
-    "url": "/gambling/static/media/xe88-logo.8ac8cf8e.png"
   }
 ]);
