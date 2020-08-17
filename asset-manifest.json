@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/gambling/static/css/main.89b6e114.chunk.css",
-    "main.js": "/gambling/static/js/main.638e2ca6.chunk.js",
-    "main.js.map": "/gambling/static/js/main.638e2ca6.chunk.js.map",
+    "main.css": "/gambling/static/css/main.5a42217f.chunk.css",
+    "main.js": "/gambling/static/js/main.0cc939ae.chunk.js",
+    "main.js.map": "/gambling/static/js/main.0cc939ae.chunk.js.map",
     "runtime-main.js": "/gambling/static/js/runtime-main.ce4b2f0e.js",
     "runtime-main.js.map": "/gambling/static/js/runtime-main.ce4b2f0e.js.map",
     "static/css/2.829c9cb5.chunk.css": "/gambling/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.ad2bd00e.chunk.js": "/gambling/static/js/2.ad2bd00e.chunk.js",
-    "static/js/2.ad2bd00e.chunk.js.map": "/gambling/static/js/2.ad2bd00e.chunk.js.map",
+    "static/js/2.a6c7da53.chunk.js": "/gambling/static/js/2.a6c7da53.chunk.js",
+    "static/js/2.a6c7da53.chunk.js.map": "/gambling/static/js/2.a6c7da53.chunk.js.map",
     "index.html": "/gambling/index.html",
-    "precache-manifest.c90f23f7158578999a3ddb3d5c7bf49a.js": "/gambling/precache-manifest.c90f23f7158578999a3ddb3d5c7bf49a.js",
+    "precache-manifest.996a2c7d521842cf730fdd5d59804251.js": "/gambling/precache-manifest.996a2c7d521842cf730fdd5d59804251.js",
     "service-worker.js": "/gambling/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/gambling/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.89b6e114.chunk.css.map": "/gambling/static/css/main.89b6e114.chunk.css.map",
-    "static/js/2.ad2bd00e.chunk.js.LICENSE.txt": "/gambling/static/js/2.ad2bd00e.chunk.js.LICENSE.txt",
+    "static/css/main.5a42217f.chunk.css.map": "/gambling/static/css/main.5a42217f.chunk.css.map",
+    "static/js/2.a6c7da53.chunk.js.LICENSE.txt": "/gambling/static/js/2.a6c7da53.chunk.js.LICENSE.txt",
     "static/media/App.css": "/gambling/static/media/background-8.97a200a8.jpg",
     "static/media/casino1.jpg": "/gambling/static/media/casino1.1d8b914d.jpg",
     "static/media/casino2.jpg": "/gambling/static/media/casino2.ab030b41.jpg",
@@ -32,10 +32,7 @@
     "static/media/kk-i_sports.png": "/gambling/static/media/kk-i_sports.689c8775.png",
     "static/media/kk_casino_logo.svg": "/gambling/static/media/kk_casino_logo.0c8fc696.svg",
     "static/media/main-promo-1.jpg": "/gambling/static/media/main-promo-1.77e48b29.jpg",
-    "static/media/main-promo-1.png": "/gambling/static/media/main-promo-1.a027fce7.png",
     "static/media/main-promo-2.jpg": "/gambling/static/media/main-promo-2.237a9167.jpg",
-    "static/media/main-promo-2.png": "/gambling/static/media/main-promo-2.9a7bfaa4.png",
-    "static/media/main-promo-3.png": "/gambling/static/media/main-promo-3.133a02c3.png",
     "static/media/main-promo-3.jpg": "/gambling/static/media/main-promo-3.f160185e.jpg",
     "static/media/main-promo-4.jpg": "/gambling/static/media/main-promo-4.0b8c1dd2.jpg",
     "static/media/main-promo-5.jpg": "/gambling/static/media/main-promo-5.b746c69e.jpg",
@@ -72,8 +69,8 @@
   "entrypoints": [
     "static/js/runtime-main.ce4b2f0e.js",
     "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.ad2bd00e.chunk.js",
-    "static/css/main.89b6e114.chunk.css",
-    "static/js/main.638e2ca6.chunk.js"
+    "static/js/2.a6c7da53.chunk.js",
+    "static/css/main.5a42217f.chunk.css",
+    "static/js/main.0cc939ae.chunk.js"
   ]
 }
