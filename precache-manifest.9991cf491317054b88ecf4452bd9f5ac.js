@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4386c82943b2cbb29b3306a6538f8cfc",
+    "revision": "d21b550f3e2f24a5e2338f17d400a4de",
     "url": "/gambling/index.html"
   },
   {
-    "revision": "d96a5ba48d4058d80244",
+    "revision": "52646fa393c81cefccad",
     "url": "/gambling/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "2b986d5aa32ad3a41118",
+    "revision": "c5ffcd2632635531c9e4",
     "url": "/gambling/static/css/main.5894fb32.chunk.css"
   },
   {
-    "revision": "d96a5ba48d4058d80244",
-    "url": "/gambling/static/js/2.a6c7da53.chunk.js"
+    "revision": "52646fa393c81cefccad",
+    "url": "/gambling/static/js/2.05ec10b5.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/gambling/static/js/2.a6c7da53.chunk.js.LICENSE.txt"
+    "url": "/gambling/static/js/2.05ec10b5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2b986d5aa32ad3a41118",
-    "url": "/gambling/static/js/main.32b40771.chunk.js"
+    "revision": "c5ffcd2632635531c9e4",
+    "url": "/gambling/static/js/main.28bf0580.chunk.js"
   },
   {
     "revision": "e28acb349c8b08bf60c5",
@@ -242,5 +242,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d1515ef510d13b0814bee522f24d3c82",
     "url": "/gambling/static/media/step4.d1515ef5.png"
+  },
+  {
+    "revision": "d06a4526b661ba60fe6bf7df6c992d8d",
+    "url": "/gambling/static/media/wechat-qr-image.d06a4526.jpeg"
   }
 ]);
