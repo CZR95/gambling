@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.442f6053.chunk.css",
-    "main.js": "/static/js/main.5e1bde7a.chunk.js",
-    "main.js.map": "/static/js/main.5e1bde7a.chunk.js.map",
+    "main.js": "/static/js/main.df6a10d7.chunk.js",
+    "main.js.map": "/static/js/main.df6a10d7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.98e5e7c9.js",
     "runtime-main.js.map": "/static/js/runtime-main.98e5e7c9.js.map",
     "static/css/2.829c9cb5.chunk.css": "/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.8f2ea0b9.chunk.js": "/static/js/2.8f2ea0b9.chunk.js",
-    "static/js/2.8f2ea0b9.chunk.js.map": "/static/js/2.8f2ea0b9.chunk.js.map",
+    "static/js/2.f8080419.chunk.js": "/static/js/2.f8080419.chunk.js",
+    "static/js/2.f8080419.chunk.js.map": "/static/js/2.f8080419.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8ba29d4630f2ea80e570f8b2ebb5091c.js": "/precache-manifest.8ba29d4630f2ea80e570f8b2ebb5091c.js",
+    "precache-manifest.76ed2e3642cee08dae8566fe55b46b53.js": "/precache-manifest.76ed2e3642cee08dae8566fe55b46b53.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.442f6053.chunk.css.map": "/static/css/main.442f6053.chunk.css.map",
-    "static/js/2.8f2ea0b9.chunk.js.LICENSE.txt": "/static/js/2.8f2ea0b9.chunk.js.LICENSE.txt",
+    "static/js/2.f8080419.chunk.js.LICENSE.txt": "/static/js/2.f8080419.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/background-8.97a200a8.jpg",
     "static/media/casino1.jpg": "/static/media/casino1.1d8b914d.jpg",
     "static/media/casino2.jpg": "/static/media/casino2.ab030b41.jpg",
@@ -49,6 +49,14 @@
     "static/media/promo-7.png": "/static/media/promo-7.5f9218df.png",
     "static/media/promo-8.png": "/static/media/promo-8.50a9d772.png",
     "static/media/promo-9.png": "/static/media/promo-9.393eee55.png",
+    "static/media/promo-v2-1.jpeg": "/static/media/promo-v2-1.08eeb9c6.jpeg",
+    "static/media/promo-v2-2.jpeg": "/static/media/promo-v2-2.c1aa3b51.jpeg",
+    "static/media/promo-v2-3.jpeg": "/static/media/promo-v2-3.c4454e64.jpeg",
+    "static/media/promo-v2-4.jpeg": "/static/media/promo-v2-4.18d72f00.jpeg",
+    "static/media/promo-v2-5.jpeg": "/static/media/promo-v2-5.3d2f3f0d.jpeg",
+    "static/media/promo-v2-6.jpeg": "/static/media/promo-v2-6.e76abff9.jpeg",
+    "static/media/promo-v2-7.jpeg": "/static/media/promo-v2-7.b25ca13d.jpeg",
+    "static/media/promo-v2-8.jpeg": "/static/media/promo-v2-8.a60883da.jpeg",
     "static/media/slot1.jpg": "/static/media/slot1.722f50af.jpg",
     "static/media/slot10.jpg": "/static/media/slot10.297ba12d.jpg",
     "static/media/slot11.jpg": "/static/media/slot11.f7c0125f.jpg",
@@ -70,8 +78,8 @@
   "entrypoints": [
     "static/js/runtime-main.98e5e7c9.js",
     "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.8f2ea0b9.chunk.js",
+    "static/js/2.f8080419.chunk.js",
     "static/css/main.442f6053.chunk.css",
-    "static/js/main.5e1bde7a.chunk.js"
+    "static/js/main.df6a10d7.chunk.js"
   ]
 }

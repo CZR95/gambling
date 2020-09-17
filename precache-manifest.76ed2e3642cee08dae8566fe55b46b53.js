@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42d54de877d1fa19d491d413c96aca07",
+    "revision": "2783698a612649ef55274f66663395b6",
     "url": "/index.html"
   },
   {
-    "revision": "701bd57241b3de51f42f",
+    "revision": "2627e7d78a6c0e5120c8",
     "url": "/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "9d7ea23b209d59f65ce0",
+    "revision": "14008eeec4768ab42074",
     "url": "/static/css/main.442f6053.chunk.css"
   },
   {
-    "revision": "701bd57241b3de51f42f",
-    "url": "/static/js/2.8f2ea0b9.chunk.js"
+    "revision": "2627e7d78a6c0e5120c8",
+    "url": "/static/js/2.f8080419.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.8f2ea0b9.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.f8080419.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9d7ea23b209d59f65ce0",
-    "url": "/static/js/main.5e1bde7a.chunk.js"
+    "revision": "14008eeec4768ab42074",
+    "url": "/static/js/main.df6a10d7.chunk.js"
   },
   {
     "revision": "ed2c74d11ab24d29deae",
@@ -178,6 +178,38 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "393eee55eb4efe289d226bdfd24548c3",
     "url": "/static/media/promo-9.393eee55.png"
+  },
+  {
+    "revision": "08eeb9c630bc94c87fb74f87e1d58752",
+    "url": "/static/media/promo-v2-1.08eeb9c6.jpeg"
+  },
+  {
+    "revision": "c1aa3b5181ae29fa1e93c8bc25ae27d6",
+    "url": "/static/media/promo-v2-2.c1aa3b51.jpeg"
+  },
+  {
+    "revision": "c4454e640ec1292aa37d13b38bc36b3b",
+    "url": "/static/media/promo-v2-3.c4454e64.jpeg"
+  },
+  {
+    "revision": "18d72f00f0d3316dd023ac860e647c1a",
+    "url": "/static/media/promo-v2-4.18d72f00.jpeg"
+  },
+  {
+    "revision": "3d2f3f0d135a13eaa9eefa0746ff5a8c",
+    "url": "/static/media/promo-v2-5.3d2f3f0d.jpeg"
+  },
+  {
+    "revision": "e76abff91f2dae0ded5687ece763c797",
+    "url": "/static/media/promo-v2-6.e76abff9.jpeg"
+  },
+  {
+    "revision": "b25ca13d00d471945418652525036773",
+    "url": "/static/media/promo-v2-7.b25ca13d.jpeg"
+  },
+  {
+    "revision": "a60883daf0c2421ddad24152d3ccdfae",
+    "url": "/static/media/promo-v2-8.a60883da.jpeg"
   },
   {
     "revision": "722f50afda1dd0eee7391068c89e1640",
