@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1f029bf828c7b99f83872eb13af0f843",
+    "revision": "741e33b6324abc74a85b748e7f48c5eb",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "9fc1c052582413133757",
+    "revision": "24891fcb6a7486ca49e4",
     "url": "/static/css/main.ab301820.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.1e9f6cb1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9fc1c052582413133757",
-    "url": "/static/js/main.049df13e.chunk.js"
+    "revision": "24891fcb6a7486ca49e4",
+    "url": "/static/js/main.f199cb12.chunk.js"
   },
   {
     "revision": "ed2c74d11ab24d29deae",
@@ -276,7 +276,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/step4.d1515ef5.png"
   },
   {
-    "revision": "d06a4526b661ba60fe6bf7df6c992d8d",
-    "url": "/static/media/wechat-qr-image.d06a4526.jpeg"
+    "revision": "25c53786c21ffd7faa1e4fd612babd0c",
+    "url": "/static/media/wechat-qr-image-2.25c53786.jpeg"
   }
 ]);
